@@ -5,9 +5,8 @@ Problem :
   visiting each city exactly once and finishing at the city he starts from. There is a non-negative cost c (i, j) to travel from the 
   city i to city j. The goal is to find a tour of minimum cost. We assume that every two cities are connected. Such problems are called
   Traveling-salesman problem (TSP).
-
-
-	TSP that returns a tour whose cost is never more than twice the cost of an optimal tour. The idea is to use Minimum Spanning Tree (MST)
+  
+  TSP returns a tour whose cost is never more than twice thecost of an optimal tour. The idea is to use Minimum Spanning Tree (MST)
 
 
 	Steps: 
