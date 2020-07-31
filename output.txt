@@ -1,0 +1,12 @@
+  Coordinates=  {'0': [42, 16], '1': [38, 19], '2': [64, 14], '3': [10, 69], '4': [47, 80]}
+
+	Initial state:  ['0', '1', '2', '3', '4', '0']
+
+	Initial distance was 211.35  
+
+	Final state:  ['0', '1', '3', '4', '2', '0']
+
+	Optimized distance is 191.15 
+
+
+	Process finished with exit code 0
